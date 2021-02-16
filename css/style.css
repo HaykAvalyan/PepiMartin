@@ -1,0 +1,202 @@
+.img {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.border-row {
+    border-left: 2px solid #ded7c3;
+    position: absolute;
+    left: 188px;
+    bottom: -2px;
+    height: 53px;
+    
+}
+
+.my-fluid {
+    background-color: #f3edd5;
+    height: 76px;
+}
+
+.my-col {
+    margin-top: 24px;
+}
+
+.my-icon {
+  padding-left: 10px !important;
+  color: #8c807c;
+}
+
+.icon {
+    color: #8c807c;
+}
+
+.icon:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.my-icon:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.cont > li {
+    float: left;
+    font-size: 14px;
+    color: #8c807c;
+}
+
+.bot {
+    margin-top: 27px;
+}
+
+.li-left {
+    margin-left: 35px;
+}
+
+.ket {
+    list-style: none;
+}
+
+
+a {
+    color: #8c807c!important;
+    text-decoration: none!important;
+}
+
+.ket:hover {
+    font-weight: bold;
+    border-bottom: 2px solid #8c807c;
+}
+
+.list-ket:hover {
+    font-weight: bold;
+    border-bottom: 2px solid #8c807c;
+}
+
+.container-fluid {
+    padding: 0!important;
+}
+
+.for-text {
+    background-color: #f3edd5;
+    padding-bottom: 50px;
+}
+
+.text > p {
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 358px;
+    margin: 0 auto;
+    border-bottom: 2px solid #8c807c;
+    padding-bottom: 1px;
+    margin-bottom: 20px;
+}
+
+.text {
+    color: #8c807c;
+    margin-top: 25px;
+    border-bottom: 1px solid #8c807c;
+}
+
+.conte {
+    margin-top: 55px;
+}
+
+.text1 {
+    font-family: Times New Roman sans-serif;
+    font-size: 30px;
+    color: #8c807c;
+}
+
+.text2 {
+    font-family: Times New Roman sans-serif;
+    color: #8c807c;
+}
+
+.botn1 {
+    color: #fffae4;
+    background-color: #8c807c !important;
+    border: none !important;
+    border-radius: 0 !important;
+    margin-top: 32px;
+}
+
+.imag {
+    width: 314px;
+    height: 257px;
+}
+
+.image2 {
+    margin-top: 25px;
+}
+.art1 {
+    margin-top: 25px;
+    border-bottom: 1px solid #8c807c;
+}
+
+.art1 p {
+    color: #8c807c;
+    font-size: 40px;
+    text-align: center;
+    width: 79px;
+    margin: 0 auto;
+    border-bottom: 2px solid #8c807c;
+    padding-bottom: 1px;
+    margin-bottom: 20px;
+}
+.img1 {
+    margin-top: 50px;
+}
+
+.knop {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 72px !important;
+}
+
+.botn2 {
+    color: #fffae4;
+    background-color: #8c807c !important;
+    border: none !important;
+    border-radius: 0 !important;
+}
+
+.art3 {
+    margin-top: 25px;
+    border-bottom: 1px solid #8c807c;
+}
+
+.art3 p {
+  color: #8c807c;
+    font-size: 40px;
+    text-align: center;
+    width: 160px;
+    margin: 0 auto;
+    border-bottom: 2px solid #8c807c;
+    padding-bottom: 20px;  
+}
+
+.bloc{
+    margin-top: 50px;
+}
+
+.fut{
+    float: right;
+    font-size: 13px;
+    font-style: italic;
+}
+
+.my-fluid1 {
+    background-color: #302b29;
+    height: 76px;
+}
+
+.fut-all {
+    font-size: 13px;
+    color: #8c807c;
+}
+.img-fut {
+   width: 
+}
